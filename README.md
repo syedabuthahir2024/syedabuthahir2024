@@ -4,7 +4,7 @@
   <img src="https://github.com/syedabuthahir2024/syedabuthahir2024/blob/main/Banner.png" alt="DevOps Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer. I work in the Corporate IT Sector and in my free time I build and automate Cloud/DevOps solutions.</h3>
+<h3 align="center">A passionate Cloud and DevOps Engineer with 2.5 years of hands-on experience in building and automating scalable cloud infrastructures, optimizing CI/CD pipelines, and ensuring robust security. In my free time, I explore new DevOps tools, contribute to Kubernetes ecosystems, and continuously enhance my skills to stay ahead in the Cloud/DevOps domain</h3>
 
 <p align="center">
   <a href="https://github.com/syedabuthahir2024">
@@ -71,7 +71,7 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest Sessions / Webinars**  
+ 
 🤝 Open to **Project Collaborations**  
 💼 Offering **DevOps Consulting / Mentorship**  
 📧 Let’s chat: [abuthahirsyed800@gmail.com](mailto:abuthahirsyed800@gmail.com)
